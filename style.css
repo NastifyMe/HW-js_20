@@ -1,7 +1,8 @@
 .gallery {
     display: flex;
     overflow-x: auto;
-    scroll-behavior: smooth;  
+    /* scroll-behavior: smooth;   */
+    white-space: nowrap;
     }
     
     .image {
